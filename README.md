@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Carl (he/him), I am 33 going on 34, and am a new programming student.
+
+I have been working in the hospitality industry for years, but have always had a passion for computers and am looking for a change in careers!
+
+I spend most of my freetime playing video games with friends or chatting with my boyfriend.
