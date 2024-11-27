@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Carl (he/him), I am 33 going on 34, and am a new programming student.
+Hello! My name is Carl (he/him), I am a junior software developer!.
 
 I have been working in the hospitality industry for years, but have always had a passion for computers and am looking for a change in careers!
 
-I spend most of my freetime playing video games with friends or chatting with my boyfriend.
+Currently I am learning the ins and outs of java and will soon be graduating from a coding bootcamp. Most of my side projects involve helping my freinds create things for the various TTRPGs we play.
